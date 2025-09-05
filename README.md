@@ -13,12 +13,6 @@
 
 ---
 
-## Screenshot
-
-![Screenshot](path_to_screenshot.png)  
-*Replace `path_to_screenshot.png` with the actual path to your screenshot.*
-
----
 
 ## Getting Started
 
