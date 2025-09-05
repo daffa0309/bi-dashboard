@@ -26,7 +26,8 @@
 
 ```bash
 git clone bi-dashboard
----
+```
+
 2. Usage
 
 To add a dashboard, type a descriptive name and paste the Tableau Public URL.
